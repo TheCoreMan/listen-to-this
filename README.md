@@ -15,4 +15,4 @@ Automatically chooses the best song from r/listentothis, and play it :)
 * filter by genre
 * auto-create youtube playlists
 * reddit bot that replies each time a song is selected with `I put this song in this playlist!`
-* save results in longterm DB and create statictics over most popular genres
+* save results in long-term DB and create statistics over most popular genres
